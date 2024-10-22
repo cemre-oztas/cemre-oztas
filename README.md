@@ -54,4 +54,12 @@ A passionate Backend Developer focusing on .NET technologies.
   </a>
 </p>
 
+## GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemre-oztas&show_icons=true&locale=en&layout=compact" alt="cemre-oztas" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemre-oztas&show_icons=true&locale=en" alt="cemre-oztas" /></p>
+
+
+
 
